@@ -1,0 +1,14 @@
+Source: xenta-themes
+Section: metapackages
+Priority: optional
+Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.7
+Homepage: https://github.com/xentaoslinux/xenta-themes
+Vcs-Browser: https://github.com/xentaoslinux/xenta-themes.git
+
+Package: xenta-themes
+Depends: xenta-x-icons, xenta-y-themes, xenta-icons
+Architecture: all
+Description: Paket Konfigurasi Xenta OS Themes
+ Paket Konfigurasi Xenta OS Themes Xfce Bawaan.
