@@ -1,3 +1,9 @@
+xenta-themes (1.5.0) batik; urgency=medium
+
+  * Pengepakan paket buat rilis "batik" stable
+
+ -- Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  Sat, 02 Mar 2019 23:41:49 +0700 
+
 xenta-themes (1.4.9) batik; urgency=medium
 
   * Perubahan Paket Theme di pindahkan ke xenta-y-theme
